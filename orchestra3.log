@@ -1,0 +1,26 @@
+
+[1] 4 Z.AI models write...
+  zai-org/GLM-5.2: ERR
+  zai-org/GLM-4.6: ERR
+  zai-org/GLM-5.3-Flash: 3985
+  zai-org/GLM-5.1: 3564
+
+Best: zai-org/GLM-5.3-Flash (3985 chars)
+
+[2] 12 DeepInfra critics review...
+  Qwen/Qwen3-Next-80B-A3B-Instruct: 606
+  Qwen/Qwen3-Coder-480B-A35B-Instruct-Turbo: 781
+  meta-llama/Llama-3.3-70B-Instruct-Turbo: 248
+  inclusionAI/Ling-3.0-flash: 684
+  nvidia/NVIDIA-Nemotron-3-Super-120B-A12B: 636
+  moonshotai/Kimi-K3: 2346
+  mistralai/Mistral-Small-3.2-24B-Instruct-2506: 1654
+  ByteDance/Seed-2.0-mini: 641
+  meta-llama/Llama-4-Scout-17B-16E-Instruct: 695
+  deepseek-ai/DeepSeek-V3.2: 550
+  google/gemma-4-31B-it: 706
+  anthropic/claude-opus-4-7: 688
+
+[3] 4 Z.AI refiners...
+  zai-org/GLM-5.3-Flash: 5367
+  zai-org/GLM-5.2: ERR

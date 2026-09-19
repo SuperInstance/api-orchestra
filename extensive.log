@@ -1,0 +1,59 @@
+
+[ROUND 1] 12 angles via parallel calls...
+  the substrate: 5 chars via nvidia/Llama-3.1-Nemotron-70B-Instruct-HF
+  the canon: 5 chars via nvidia/Llama-3.1-Nemotron-70B-Instruct-HF
+  polyformalism: 310 chars via meta-llama/Meta-Llama-3.1-70B-Instruct
+  the address: 1092 chars via nvidia/NVIDIA-Nemotron-3-Super-120B-A12B
+  the witness: 0 chars via Qwen/Qwen3-30B-A3B
+  the lattice: 318 chars via meta-llama/Meta-Llama-3.1-8B-Instruct
+  the tick: 293 chars via meta-llama/Llama-3.3-70B-Instruct-Turbo
+  the ship: 0 chars via moonshotai/Kimi-K2.7-Code
+  Zeus the Watcher: 933 chars via inclusionAI/Ling-3.0-flash
+  the bind: 1053 chars via moonshotai/Kimi-K3
+  the cell: 369 chars via zai-org/GLM-5.3-Flash
+  the seven eighths: 0 chars via moonshotai/Kimi-K2.6
+
+[ROUND 2] 8 critics review angles...
+  meta-llama/Llama-4-Scout-17B-16E-Instruct: 376 chars
+  meta-llama/Llama-3.3-70B-Instruct-Turbo: 257 chars
+  zai-org/GLM-5.2: 530 chars
+  zai-org/GLM-4.6: 0 chars
+  ByteDance/Seed-2.0-mini: 559 chars
+  ByteDance/Seed-2.0-pro: 369 chars
+  zai-org/GLM-5.3-Flash: 674 chars
+  zai-org/GLM-5.1: 209 chars
+
+[ROUND 3] 6 builders propose apps...
+  Qwen/Qwen3-Coder-480B-A35B-Instruct-Turbo: 549 chars
+  inclusionAI/Ling-mini-2t1: 5 chars
+  moonshotai/Kimi-K2.7-Code: 0 chars
+  Qwen/Qwen2.5-Coder-32B-Instruct: 0 chars
+  ByteDance/Seed-2.0-mini: 5 chars
+  moonshotai/Kimi-K2.6: 5 chars
+
+[ROUND 4] 4 cross-pollinations...
+  Qwen/Qwen3-Coder-480B-A35B-Instruct-Turbo: 662 chars
+  deepseek-ai/DeepSeek-V3.2: 475 chars
+  zai-org/GLM-5.3-Flash: 555 chars
+  moonshotai/Kimi-K3: 2199 chars
+
+[CF ASSETS] images, tts, embeddings...
+  4 images
+  TTS best_angle
+  TTS best_xpoll
+  22 embeddings
+
+[CF CHAT] Cloudflare free chat models...
+  @cf/zai-org/glm-5.3-flash: 0 chars
+  @cf/moonshotai/kimi-k2.7-code: 0 chars
+  @cf/meta/llama-3.1-8b-instruct-fp8: 189 chars
+
+=== DONE in 191.4s ===
+  R1 angles: 12
+  R2 critics: 8
+  R3 builders: 6
+  R4 xpoll: 4
+  CF images: 4
+  CF embs: 22
+  CF chat: 3
+  Files: 12

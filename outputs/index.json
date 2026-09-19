@@ -1,0 +1,31 @@
+{
+  "movements": 6,
+  "models_used": {
+    "zai": [
+      "zai-org/GLM-5.3-Flash",
+      "zai-org/GLM-5.2",
+      "zai-org/GLM-5.1",
+      "zai-org/GLM-4.6"
+    ],
+    "deepinfra": [
+      "ByteDance/Seed-2.0-mini",
+      "meta-llama/Llama-3.3-70B-Instruct-Turbo",
+      "Qwen/Qwen3-Next-80B-A3B-Instruct",
+      "Qwen/Qwen3-Coder-480B-A35B-Instruct-Turbo",
+      "deepseek-ai/DeepSeek-V3.2",
+      "moonshotai/Kimi-K3",
+      "mistralai/Mistral-Small-3.2-24B-Instruct-2506",
+      "inclusionAI/Ling-3.0-flash",
+      "nvidia/NVIDIA-Nemotron-3-Super-120B-A12B",
+      "meta-llama/Llama-4-Scout-17B-16E-Instruct",
+      "google/gemma-4-31B-it",
+      "anthropic/claude-opus-4-7"
+    ]
+  },
+  "best_zai_script": "zai-org/GLM-5.3-Flash",
+  "best_zai_refined": "zai-org/GLM-5.3-Flash",
+  "tts_files": 0,
+  "image_files": 0,
+  "embeddings": 8,
+  "elapsed_sec": 292.7
+}

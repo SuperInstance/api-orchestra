@@ -1,0 +1,28 @@
+[TTS] 5 paragraphs...
+  aura_1: 121 chars
+  aura_2: 139 chars
+  aura_3: 151 chars
+  aura_4: 143 chars
+  aura_5: 99 chars
+
+[TTS-Melo] ...
+
+[IMAGES] ...
+  img_1
+  img_2
+  img_3
+  img_4
+  img_5
+
+[EMBED] ...
+  para_1: 1024d
+  para_2: 1024d
+  para_3: 1024d
+  para_4: 1024d
+  para_5: 1024d
+
+=== DONE in 28.1s ===
+  TTS: 5
+  Images: 5
+  Embeddings: 5
+  Files: 10

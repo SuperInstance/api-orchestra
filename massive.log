@@ -1,0 +1,81 @@
+
+[ROUND 1] ALL 36 models answer: 'What is a Quilt cell in 30 words?'
+  Qwen/Qwen3-Next-80B-A3B-Instruct: 237
+  Qwen/Qwen3-Coder-480B-A35B-Instruct-Turbo: 201
+  meta-llama/Llama-4-Scout-17B-16E-Instruct: 168
+  Qwen/Qwen3-235B-A22B-Instruct-2507: 230
+  meta-llama/Meta-Llama-3.1-8B-Instruct: 199
+  mistralai/Mistral-Nemo: ERR
+  inclusionAI/Ling-mini-2t1: ERR
+  mistralai/Mistral-Small-3.2-24B-Instruct-2506: 170
+  Qwen/Qwen3-30B-A3B: ERR
+  deepseek-ai/DeepSeek-V3.2: 174
+  anthropic/claude-sonnet-4.7: ERR
+  meta-llama/Llama-3.3-70B-Instruct-Turbo: 137
+  nvidia/NVIDIA-Nemotron-3-Super-120B-A12B: 645
+  anthropic/claude-opus-4-7: 176
+  Qwen/Qwen3-32B: ERR
+  inclusionAI/Ling-3.0-flash: 617
+  moonshotai/Kimi-K2.7-Code: ERR
+  deepseek-ai/DeepSeek-R1-0528: 1032
+  nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B: 599
+  google/gemma-4-31B-it: 182
+  zai-org/GLM-5.3-Flash: 163
+  google/gemma-3-27b-it: 207
+  nvidia/Llama-3.1-Nemotron-70B-Instruct-HF: ERR
+  moonshotai/Kimi-K3: 821
+  zai-org/GLM-5.2: ERR
+  MiniMaxAI/MiniMax-M2.7-Turbo: 740
+  zai-org/GLM-4.6: ERR
+  openai/gpt-oss-20b: ERR
+  deepseek-ai/DeepSeek-V3: 237
+  zai-org/GLM-5.1: 146
+  openai/gpt-oss-120b: ERR
+  ByteDance/Seed-2.0-pro: 194
+  moonshotai/Kimi-K2.6: ERR
+  meta-llama/Meta-Llama-3.1-70B-Instruct: 195
+  ByteDance/Seed-2.0-mini: 230
+  MiniMaxAI/MiniMax-M3: ERR
+
+[ROUND 2] Models vote on best 3...
+  Qwen/Qwen3-Coder-480B-A35B-Instruct-Turbo: 406
+  Qwen/Qwen3-Next-80B-A3B-Instruct: 521
+  Qwen/Qwen3-235B-A22B-Instruct-2507: 500
+  meta-llama/Llama-4-Scout-17B-16E-Instruct: 920
+  meta-llama/Meta-Llama-3.1-8B-Instruct: 956
+  meta-llama/Llama-3.3-70B-Instruct-Turbo: 273
+  ByteDance/Seed-2.0-pro: 553
+  Qwen/Qwen3-32B: 96
+  ByteDance/Seed-2.0-mini: 506
+  meta-llama/Meta-Llama-3.1-70B-Instruct: ERR
+
+[ROUND 3] 20 haiku in parallel...
+  Qwen/Qwen3-Coder-480B-A35B-Instruct-Turbo: 113
+  meta-llama/Llama-4-Scout-17B-16E-Instruct: 68
+  Qwen/Qwen3-Next-80B-A3B-Instruct: 75
+  Qwen/Qwen3-30B-A3B: ERR
+  mistralai/Mistral-Nemo: ERR
+  meta-llama/Meta-Llama-3.1-8B-Instruct: 106
+  moonshotai/Kimi-K3: 344
+  mistralai/Mistral-Small-3.2-24B-Instruct-2506: 76
+  deepseek-ai/DeepSeek-V3.2: 78
+  meta-llama/Llama-3.3-70B-Instruct-Turbo: 69
+  inclusionAI/Ling-3.0-flash: 393
+  Qwen/Qwen3-32B: ERR
+  deepseek-ai/DeepSeek-R1-0528: 370
+  moonshotai/Kimi-K2.7-Code: ERR
+  Qwen/Qwen3-235B-A22B-Instruct-2507: 93
+  moonshotai/Kimi-K2.6: ERR
+  deepseek-ai/DeepSeek-V3: 125
+  ByteDance/Seed-2.0-pro: ERR
+  ByteDance/Seed-2.0-mini: ERR
+  meta-llama/Meta-Llama-3.1-70B-Instruct: ERR
+
+[CF MASSIVE] 10 images, 10 TTS, 30 embeddings...
+  10 images
+  10 TTS
+  30 embeddings
+
+=== DONE in 95.9s ===
+  Total API calls: 103
+  Files: 24
