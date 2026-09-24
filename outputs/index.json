@@ -1,13 +1,13 @@
 {
-  "movements": 6,
+  "movements": 7,
   "models_used": {
-    "zai": [
+    "zai_chat": [
       "zai-org/GLM-5.3-Flash",
       "zai-org/GLM-5.2",
       "zai-org/GLM-5.1",
       "zai-org/GLM-4.6"
     ],
-    "deepinfra": [
+    "deepinfra_critics": [
       "ByteDance/Seed-2.0-mini",
       "meta-llama/Llama-3.3-70B-Instruct-Turbo",
       "Qwen/Qwen3-Next-80B-A3B-Instruct",
@@ -20,12 +20,22 @@
       "meta-llama/Llama-4-Scout-17B-16E-Instruct",
       "google/gemma-4-31B-it",
       "anthropic/claude-opus-4-7"
+    ],
+    "cf_apis": [
+      "aura-2-en (TTS)",
+      "flux-1-schnell (image)",
+      "bge-m3 (embedding)",
+      "whisper (ASR)"
     ]
   },
   "best_zai_script": "zai-org/GLM-5.3-Flash",
-  "best_zai_refined": "zai-org/GLM-5.3-Flash",
-  "tts_files": 0,
-  "image_files": 0,
-  "embeddings": 8,
-  "elapsed_sec": 292.7
+  "best_zai_script_chars": 4347,
+  "best_zai_refined": "zai-org/GLM-4.6",
+  "tts_files": 6,
+  "image_files": 5,
+  "embeddings_count": 7,
+  "asr_files": 3,
+  "elapsed_sec": 429.9,
+  "outputs_dir": "/workspace/repos/api-orchestra/outputs",
+  "file_count": 23
 }

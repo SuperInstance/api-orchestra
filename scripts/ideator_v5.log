@@ -1,0 +1,60 @@
+
+[ROUND 1] 28 ideators brainstorm repo names...
+  Qwen/Qwen3-Next-80B-A3B-Instruct: Multilingual diplomat
+  mistralai/Mistral-Small-3.2-24B-Instruct-2506: Revolutionary romantic
+  Qwen/Qwen3-Coder-480B-A35B-Instruct-Turbo: Code-as-poetry advocate
+  meta-llama/Llama-4-Scout-17B-16E-Instruct: MoE architect
+  deepseek-ai/DeepSeek-V3.2: Reasoning explorer
+  nvidia/NVIDIA-Nemotron-3-Super-120B-A12B: MoE engineer
+  meta-llama/Llama-3.3-70B-Instruct-Turbo: Open-source philosopher
+  nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B: Sparse architect
+  ByteDance/Seed-2.0-mini: ByteDance creative director
+  microsoft/phi-4: Compact philosopher
+  anthropic/claude-opus-4-7: Constitutional AI
+  openai/gpt-oss-20b: Lightweight OSS
+  google/gemma-3-27b-it: Google scale engineer
+  MiniMaxAI/MiniMax-M2.7-Turbo: Turbo speedrunner
+  deepseek-ai/DeepSeek-V4-Flash: Rapid worldbuilder
+  moonshotai/Kimi-K3: Long-context storyteller
+  moonshotai/Kimi-K2.7-Code: Code archaeologist
+  openai/gpt-oss-120b: OSS advocate
+  google/gemma-4-31B-it: DeepMind researcher
+  inclusionAI/Ling-3.0-flash: Pacific Rim voice
+  stepfun-ai/Step-3.7-Flash: Step fun creative
+  meta-llama/Meta-Llama-3.1-8B-Instruct: Small but mighty
+  meta-llama/Meta-Llama-3.1-70B-Instruct: Pure 70B
+  zai-org/GLM-5.3-Flash: Eastern systems thinker
+  deepseek-ai/DeepSeek-R1-0528: Deep reasoner
+  Qwen/Qwen3-32B: Mid-size Qwen
+  deepseek-ai/DeepSeek-V3: V3 base
+  MiniMaxAI/MiniMax-M3: Max's sibling
+
+[ROUND 2] Cross-pollination of repo ideas...
+  Qwen/Qwen3-Coder-480B-A35B-Instruct-Turbo: 1193
+  deepseek-ai/DeepSeek-V4-Flash: 1263
+  anthropic/claude-opus-4-7: 1327
+  meta-llama/Llama-3.3-70B-Instruct-Turbo: 1304
+  ByteDance/Seed-2.0-mini: 1047
+  inclusionAI/Ling-3.0-flash: 276
+  moonshotai/Kimi-K3: 3308
+  zai-org/GLM-5.3-Flash: 1471
+
+[ROUND 3] DeepSeek V4-Flash worldbuilding loop...
+  iter 1: 402 chars
+  iter 2: 470 chars
+  iter 3: 430 chars
+  iter 4: 519 chars
+  iter 5: 432 chars
+
+[ROUND 4] Synthesizing future-of-Quilt...
+  Qwen/Qwen3-Coder-480B-A35B-Instruct-Turbo: 2340
+  deepseek-ai/DeepSeek-V4-Flash: 2635
+  zai-org/GLM-5.3-Flash: ERR
+  moonshotai/Kimi-K3: ERR
+
+=== DONE in 148.1s ===
+  R1 ideators: 27/28
+  R2 xpoll: 8/8
+  R3 v4-flash iterations: 5
+  R4 synthesis: 2/4
+  Files: 5

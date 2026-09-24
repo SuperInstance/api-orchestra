@@ -1,0 +1,67 @@
+
+[1] 4 Z.AI models write...
+  zai-org/GLM-5.2: ERR
+  zai-org/GLM-5.3-Flash: 4381
+  zai-org/GLM-5.1: 2947
+  zai-org/GLM-4.6: ERR
+
+Best: zai-org/GLM-5.3-Flash (4381 chars)
+
+[2] 12 DeepInfra critics review...
+  Qwen/Qwen3-Next-80B-A3B-Instruct: 601
+  meta-llama/Llama-3.3-70B-Instruct-Turbo: 305
+  mistralai/Mistral-Small-3.2-24B-Instruct-2506: 671
+  nvidia/NVIDIA-Nemotron-3-Super-120B-A12B: 1928
+  deepseek-ai/DeepSeek-V3.2: 587
+  inclusionAI/Ling-3.0-flash: 894
+  meta-llama/Llama-4-Scout-17B-16E-Instruct: 695
+  ByteDance/Seed-2.0-mini: 693
+  anthropic/claude-opus-4-7: 662
+  google/gemma-4-31B-it: 663
+  Qwen/Qwen3-Coder-480B-A35B-Instruct-Turbo: 595
+  moonshotai/Kimi-K3: 2329
+
+[3] 4 Z.AI refiners...
+  zai-org/GLM-5.3-Flash: 6692
+  zai-org/GLM-5.2: ERR
+  zai-org/GLM-5.1: 2987
+  zai-org/GLM-4.6: ERR
+
+Best refined: zai-org/GLM-5.3-Flash
+
+[4] CF Aura-2-en TTS (multiple chunks)...
+  chunk 1: 80 chars
+  chunk 2: 55 chars
+  chunk 3: 381 chars
+  chunk 4: 88 chars
+  chunk 5: 54 chars
+  chunk 6: 250 chars
+
+[5] CF FLUX images...
+  img 1
+  img 2
+  img 3
+  img 4
+  img 5
+
+[6] CF bge-m3 embeddings...
+  m1_zai-org/GLM-5.2: 0d
+  m1_zai-org/GLM-5.3-Flash: 1024d
+  m1_zai-org/GLM-5.1: 1024d
+  m1_zai-org/GLM-4.6: 0d
+  m3_zai-org/GLM-5.3-Flash: 1024d
+  m3_zai-org/GLM-5.2: 0d
+  m3_zai-org/GLM-5.1: 1024d
+  m3_zai-org/GLM-4.6: 0d
+
+[7] Whisper ASR on the TTS outputs...
+
+=== DONE in 400.5s ===
+  Z.AI scripts: 2/4
+  Critiques: 12/12
+  Refined: 2/4
+  TTS: 6
+  Images: 5
+  Embeddings: 8
+  ASR: 3
+  Files: 23
